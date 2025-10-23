@@ -15,4 +15,3 @@ It fetches real-time Binance market data and simulates buy/sell logic using RSI 
 
 ---
 
-## 🧩 Folder Structure
