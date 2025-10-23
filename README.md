@@ -1,4 +1,5 @@
-# 🧩 Createev Tech
+# 🤖 Createev Tech
+*by Tomiwa Samuel (GitHub: createevgit)*
 ### Empowering Financial Systems Through AI Automation
 **Developer:** Tomiwa Samuel  
 **Email:** createev69@gmail.com  
