@@ -1,5 +1,5 @@
 # 🤖 Createev Tech
-*by Tomiwa Samuel (GitHub: createevgit)*
+*by Tomiwa Samuel (GitHub: createevgit, developed: 2023)*
 ### Empowering Financial Systems Through AI Automation
 **Developer:** Tomiwa Samuel  
 **Email:** createev69@gmail.com  
@@ -74,4 +74,4 @@ If you are an investor, broker, or developer looking to collaborate on automatio
 **Developer:** Tomiwa Samuel  
 **Location:** Createev Tech HQ (Remote Operations)  
 
-> © 2025 Createev Tech. All Rights Reserved.
+> © 2023 Createev Tech. All Rights Reserved.
