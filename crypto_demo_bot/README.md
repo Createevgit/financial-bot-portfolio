@@ -12,6 +12,13 @@ It fetches real-time Binance market data and simulates buy/sell logic using RSI 
 - Simulates trading account and tracks P/L
 - 100% **safe demo** — no live trading or keys
 - Simple Python code for learning and showcasing trading bot logic
-
 ---
+
+## ⚙️ Requirements
+Install the following Python libraries before running:
+
+```bash
+pip install requests pandas numpy
+python crypto_demo_bot.py
+python crypto_demo_bot.py
 
